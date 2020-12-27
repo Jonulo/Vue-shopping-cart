@@ -1,5 +1,10 @@
 # vue-shop-project
 
+Used dependencies:
+  - BootstrapVue
+  - VuePaginate
+  - Vuex
+
 ## Project setup
 ```
 npm install
